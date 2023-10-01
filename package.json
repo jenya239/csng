@@ -1,0 +1,9 @@
+{
+  "name": "csng",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "node-watch": "^0.7.3"
+  }
+}

@@ -1,0 +1,982 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"infos_map"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"ove",
+				"overflow-y\tproperty"
+			],
+			[
+				"la",
+				"languages"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"langco",
+				"languages_countries"
+			],
+			[
+				"lan",
+				"language_code"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"coun",
+				"country_code"
+			],
+			[
+				"couc",
+				"country_code"
+			],
+			[
+				"councod",
+				"countries_codes"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"ch",
+				"child"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"is",
+				"is_string"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"try",
+				"try_render"
+			],
+			[
+				"pro",
+				"process_value_object_pair"
+			],
+			[
+				"pr",
+				"process_value_array_item"
+			],
+			[
+				"process",
+				"process_array_element"
+			],
+			[
+				"Pr",
+				"ArrayValueProcessing"
+			],
+			[
+				"new",
+				"new_val"
+			],
+			[
+				"Pro",
+				"process_array_value"
+			],
+			[
+				"roo",
+				"root_obj"
+			],
+			[
+				"rend",
+				"rendered"
+			],
+			[
+				"pa",
+				"parent_path"
+			],
+			[
+				"ini",
+				"init_content"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"he",
+				"headers"
+			],
+			[
+				"cl",
+				"client_loop"
+			],
+			[
+				"sta",
+				"start_link"
+			],
+			[
+				"HT",
+				"Http"
+			],
+			[
+				"liste",
+				"listeners"
+			],
+			[
+				"min",
+				"min_width"
+			],
+			[
+				"mi",
+				"min_width"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"set",
+				"set_state"
+			],
+			[
+				"ma",
+				"max_width"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"valid",
+				"validations"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"arrkey",
+				"array_key_exists"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"abs",
+				"abstract"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Pla",
+				"PlatypusHttpRequestReader"
+			],
+			[
+				"route",
+				"route_id"
+			],
+			[
+				"create",
+				"create_sql"
+			],
+			[
+				"zon",
+				"zones"
+			],
+			[
+				"zone",
+				"zones_ids"
+			],
+			[
+				"stop",
+				"stops_routes"
+			],
+			[
+				"by",
+				"by_id"
+			],
+			[
+				"rou",
+				"routes_by_id"
+			],
+			[
+				"rec",
+				"record_class"
+			],
+			[
+				"col_nam",
+				"col_names"
+			],
+			[
+				"col",
+				"col_names"
+			],
+			[
+				"Pa",
+				"PanelItem"
+			],
+			[
+				"clic",
+				"click_hanlder"
+			],
+			[
+				"ite",
+				"items_elements_map"
+			],
+			[
+				"FOR",
+				"FOREIGN_SQL"
+			],
+			[
+				"ind",
+				"index2\tlocal var"
+			],
+			[
+				"row",
+				"row_indeces\tlocal var"
+			],
+			[
+				"exC",
+				"existCost\tlocal var"
+			],
+			[
+				"ac",
+				"actionList\tparameter"
+			],
+			[
+				"off",
+				"offsetWidth\tproperty"
+			],
+			[
+				"groI",
+				"groupsIterator\tmethod"
+			],
+			[
+				"mod",
+				"module\twarning"
+			],
+			[
+				"prot",
+				"prototype\tproperty"
+			],
+			[
+				"def",
+				"defineCallback\tmethod"
+			],
+			[
+				"usC",
+				"usrContextCallback\tmethod"
+			],
+			[
+				"an",
+				"anActions\tparameter"
+			],
+			[
+				"or",
+				"originalClasses\tlocal var"
+			],
+			[
+				"men",
+				"menuExpanded\tlocal var"
+			],
+			[
+				"cla",
+				"className\tproperty"
+			],
+			[
+				"foo",
+				"footer"
+			],
+			[
+				"sch",
+				"schemas"
+			],
+			[
+				"cre",
+				"creator"
+			],
+			[
+				"bas",
+				"base_entity"
+			],
+			[
+				"s",
+				"schema_prototype"
+			],
+			[
+				"sc",
+				"schema_prototype"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"ent",
+				"entity_schema"
+			],
+			[
+				"reg",
+				"regex"
+			],
+			[
+				"rege",
+				"regexps"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"full",
+				"full"
+			],
+			[
+				"fu",
+				"full"
+			],
+			[
+				"fil",
+				"fileid"
+			],
+			[
+				"entr",
+				"entries"
+			],
+			[
+				"ful",
+				"full_dir"
+			],
+			[
+				"unl",
+				"unless"
+			],
+			[
+				"wr",
+				"wrappers_arr"
+			],
+			[
+				"wrapp",
+				"wrappers"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"pre",
+				"preview_path"
+			],
+			[
+				"all",
+				"all_count"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"item",
+				"item_id"
+			],
+			[
+				"modu",
+				"modules"
+			],
+			[
+				"se",
+				"serve_all"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"path",
+				"path_str"
+			],
+			[
+				"exp",
+				"exporter"
+			],
+			[
+				"pah",
+				"path_str"
+			],
+			[
+				"mak",
+				"make_tree"
+			],
+			[
+				"wra",
+				"wrappers"
+			],
+			[
+				"fe",
+				"features_initializer"
+			],
+			[
+				"so",
+				"sort_modules"
+			],
+			[
+				"w",
+				"wrappers"
+			],
+			[
+				"wrap",
+				"wrappers"
+			],
+			[
+				"Ini",
+				"Initializer"
+			],
+			[
+				"features",
+				"features_initializer"
+			],
+			[
+				"get",
+				"get_module"
+			],
+			[
+				"sup",
+				"support_dir"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "csng.sublime-project",
+			"settings":
+			{
+				"buffer_size": 199,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termvi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"tevi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			],
+			[
+				"tervi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"ermvi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"termv",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terv",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"termvie",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"view",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"term vi",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"term",
+				"Preferences: Terminus Key Bindings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"view.run_command('example')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jenya/workspaces/csng"
+	],
+	"file_history":
+	[
+		"/data/games/hl2/game/hl2_linux",
+		"/home/jenya/work/chatsupport/server/front/index.html",
+		"/home/jenya/Desktop/GetURLs.jsx",
+		"/home/jenya/projects/exps/gl2/hello-int80.s",
+		"/home/jenya/work/daminion/react-spectrum/package.json",
+		"/home/jenya/work/daminion/react-spectrum/dist/ac27232f81bc0b9430efbedb154131b7f0d26352/storybook/vendors~main.cd9efd79489baa5824ab.bundle.js",
+		"/data/vms/mac/macOS 10.15.vmx",
+		"/home/jenya/work/vps/bitvps_dev_dump.sql",
+		"/home/jenya/projects/rfx/space/backend/convert.coffee",
+		"/home/jenya/work/events/flags_gen/languages_countries.json",
+		"/home/jenya/projects/exps/dashboard/space/app/main.coffee",
+		"/home/jenya/projects/exps/dashboard/space/index.html",
+		"/home/jenya/.config/sublime-text-3/Packages/User/jp.py",
+		"/home/jenya/projects/chat/space/simple.exs",
+		"/home/jenya/work/events/vr-event/src/components/chat/useField.tsx",
+		"/home/jenya/work/events/vr-event/src/components/chat/InlineChat.tsx",
+		"/home/jenya/work/events/vr-event/src/stores/chat/ChatManager.ts",
+		"/home/jenya/work/events/vr-event/src/stores/chat/Field.ts",
+		"/home/jenya/work/events/vr-event/src/components/chat/hooks/useInlineActive.tsx",
+		"/home/jenya/work/events/vr-event/src/stores/chat/Channel.ts",
+		"/home/jenya/work/events/vr-event/src/components/Chat.tsx",
+		"/home/jenya/projects/exps/dashboard/space/app/main.js",
+		"/home/jenya/projects/exps/gui/index.html",
+		"/home/jenya/projects/exps/dashboard/space/app/iohook.coffee",
+		"/home/jenya/projects/exps/dashboard/space/app/t.coffee",
+		"/home/jenya/projects/exps/any/fm2/old.coffee",
+		"/home/jenya/projects/exps/dashboard/space/app/parent.js",
+		"/home/jenya/projects/exps/dashboard/space/app/child.coffee",
+		"/home/jenya/projects/exps/gui/main.coffee",
+		"/home/jenya/projects/haribo/space/src/sass/blocks/menu.scss",
+		"/home/jenya/projects/beejee/space/assets/common.css",
+		"/home/jenya/programs/tomcat/webapps/processing/private.properties",
+		"/home/jenya/projects/shelter/jenya26e_wp1.sql",
+		"/home/jenya/work/cnet/arm/app/widgets/ActionList.js",
+		"/home/jenya/work/cnet/arm/WEB-INF/web.xml",
+		"/home/jenya/work/cnet/arm/app/modules/FormLoader/FormLoader.js",
+		"/home/jenya/work/cnet/arm/app/Импорт/Транспорт маршруты/ImportFilesReader.js",
+		"/home/jenya/work/cnet/arm/app/modules/pframerunner/PFrameRunner.js",
+		"/home/jenya/work/cnet/arm/app/widgets/WidgetList.js",
+		"/home/jenya/work/cnet/arm/app/АРМ Веб/Пользователи и группы/Пользователи/UserEditor.layout",
+		"/home/jenya/work/cnet/arm/app/АРМ Веб/Пользователи и группы/Пользователи/UserEditor.js",
+		"/home/jenya/work/cnet/arm/app/modules/FormLoader/modelLoader.js",
+		"/home/jenya/work/cnet/arm/app/АРМ Веб/Пользователи и группы/Пользователи/UsersJournal.js",
+		"/home/jenya/work/cnet/arm/index.html",
+		"/home/jenya/work/cnet/arm/app/main-start.js",
+		"/home/jenya/work/cnet/arm/app/widgets/ListWidgets.js",
+		"/home/jenya/work/cnet/arm/WEB-INF/classes/orm.js",
+		"/home/jenya/work/cnet/arm/app/Импорт/Образование/Настройка.js",
+		"/home/jenya/work/cnet/arm/app/Импорт/Образование/qEduFL.sql",
+		"/home/jenya/work/cnet/arm/app/Импорт/Образование/qEduFL.model",
+		"/home/jenya/work/cnet/arm/app/modules/common.js",
+		"/home/jenya/work/cnet/arm/Unreleased/SUPrnkb-163.md",
+		"/home/jenya/work/cnet/arm/app/АРМ Веб/Пользователи и группы/Пользователи/UserEditor_fm.js",
+		"/home/jenya/work/cnet/arm/app/АРМ Веб/Пользователи и группы/Пользователи/UserEditor_old.js",
+		"/home/jenya/work/cnet/apidoc/28-table-of-contents.ts",
+		"/home/jenya/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/jenya/Pictures/a/tu7K4PXKn9",
+		"/home/jenya/projects/rfx/space/tools/uploader.coffee",
+		"/home/jenya/projects/rfx/space/tools/sync.rb",
+		"/home/jenya/projects/rfx/space/backend/processing/interaction.coffee",
+		"/home/jenya/projects/rfx/space/backend/processing/frontend.coffee",
+		"/home/jenya/projects/rfx/space/backend/genesis.coffee",
+		"/home/jenya/projects/rfx/space/backend/application.coffee",
+		"/home/jenya/projects/rfx/space/backend/processing/index.coffee",
+		"/home/jenya/projects/rfx/space/frontend/app/search.coffee",
+		"/home/jenya/projects/rfx/space/frontend/app/drive.coffee",
+		"/home/jenya/projects/rfx/space/frontend/index.html",
+		"/home/jenya/projects/rfx/space/frontend/app/footages/active.coffee",
+		"/home/jenya/projects/rfx/space/frontend/assets/main.css",
+		"/home/jenya/projects/rfx/space/frontend/app/gen.coffee",
+		"/home/jenya/projects/rfx/space/frontend/app/deleter.coffee",
+		"/home/jenya/projects/rfx/space/frontend/app/application.coffee",
+		"/home/jenya/projects/rfx/space/frontend/app/footages/loader.coffee",
+		"/home/jenya/projects/rfx/space/frontend/t.html",
+		"/home/jenya/projects/rfx/space/frontend/app/data.coffee",
+		"/home/jenya/projects/rfx/space/tests/t.coffee",
+		"/home/jenya/projects/rfx/space/frontend/app/footages/video.coffee",
+		"/home/jenya/.bashrc",
+		"/home/jenya/projects/rfx/space/tools/console/video.coffee",
+		"/home/jenya/projects/rfx/space/tools/render2.coffee",
+		"/home/jenya/projects/rfx/data/notes.txt",
+		"/home/jenya/projects/courseplan/space/frontend/base/application_controller.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/gen.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/old_features/event_dispatcher.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/old_features/utils_old.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/utils.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/features/features.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/features/event_dispatcher.coffee",
+		"/home/jenya/projects/courseplan/space/common/base/module.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/features/hooks.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/features/initializer.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/api.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/mediator.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/model.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/relations.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/application.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/main.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/view/component.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/syncs/application.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/syncs/topics.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/view/console.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/view/dialogs/dialog.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/view/dialogs/program.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/view/overlay.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/view/tabs/planning/program.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/view/tabs/planning/programs_list.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/view/tabs/topics/content.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/view/tabs/topics/settings.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/view/tabs/topics/sidebar.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/view/tabs/topics/settings_form.coffee",
+		"/home/jenya/projects/courseplan/space/builder/frontend/items.coffee",
+		"/home/jenya/projects/courseplan/space/backend/gen.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/building.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/event_handling.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/expanding.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/list_binding.coffee",
+		"/home/jenya/projects/support/gen.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/old_features/bindings.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/old_features/hooks.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/old_features/module.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/old_features/pool.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/old_features/set_field.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/old_features/watching.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/sync.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/view/bindings.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/base/view/features.coffee",
+		"/home/jenya/projects/courseplan/space/frontend/build/scripts.js",
+		"/home/jenya/projects/courseplan/space/frontend/model/browser.coffee"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "csng.sublime-project",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 96.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "csng.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Scripts",
+				"PlatypusJS/application/src/lib/own/CommonUtils/src/com/eas/script/Scripts.java"
+			],
+			[
+				"ProcessingA",
+				"processing/app/Сервер/Processing/ProcessingAPI.js"
+			],
+			[
+				"RPCRequest",
+				"application/src/components/Core/src/com/eas/client/threetier/requests/RPCRequest.java"
+			],
+			[
+				"ServerModuleStructureRequest",
+				"application/src/components/Core/src/com/eas/client/threetier/requests/ServerModuleStructureRequest.java"
+			],
+			[
+				"PlatypusRequestsFactory",
+				"sources/PlatypusJS/application/src/components/Core/src/com/eas/client/threetier/requests/PlatypusRequestsFactory.java"
+			],
+			[
+				"sou/PlaServReader",
+				"sources/PlatypusJS/application/src/components/ServletSupport/src/com/eas/server/httpservlet/PlatypusHttpRequestReader.java"
+			],
+			[
+				"PlatypusHttpRequestReader",
+				"sources/PlatypusJS/application/src/components/ServletSupport/src/com/eas/server/httpservlet/PlatypusHttpRequestReader.java"
+			],
+			[
+				"PlatypusServerCore",
+				"sources/PlatypusJS/application/src/components/Server/src/com/eas/server/PlatypusServerCore.java"
+			],
+			[
+				"PlatypusHtt",
+				"sources/PlatypusJS/application/src/components/ServletSupport/src/com/eas/server/httpservlet/PlatypusHttpServlet.java"
+			],
+			[
+				"build.x",
+				"sources/PlatypusJS/application/src/group/build.xml"
+			],
+			[
+				"FormLoad",
+				"arm/app/modules/FormLoader/FormLoader.js"
+			],
+			[
+				"orm",
+				"arm/WEB-INF/classes/orm.js"
+			],
+			[
+				"ModelLoader",
+				"arm/app/modules/FormLoader/modelLoader.js"
+			],
+			[
+				"FormLoader",
+				"arm/app/modules/FormLoader/FormLoader.js"
+			],
+			[
+				"module.js",
+				"lib/module.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 98.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

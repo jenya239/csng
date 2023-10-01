@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>csng</title>
+	<link rel="stylesheet" href="src/main.css"></link>
+</head>
+<body>
+	<canvas id='area'></canvas>
+<script type="module" >
+		const PATH = 'src';
+		const fs = require('fs');
+		const path = require('path');
+		var watch = require('node-watch');
+		watch(PATH, { recursive: true }, (evt, name) => {
+			// console.log('%s changed.', name);
+			if (location) location.reload();
+		});
+		// require(path.join(PATH, 'src/main.mjs'));
+</script>
+<script type="module" src="src/main.js" ></script>
+</body>
+</html>
